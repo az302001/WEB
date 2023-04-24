@@ -12,6 +12,8 @@ import img6 from '../../assets/producto06.jpg'
 import img7 from '../../assets/producto07.jpg'
 
 
+
+
 const index = () => {
   return (
     <div>

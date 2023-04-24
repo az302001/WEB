@@ -12,7 +12,7 @@ function Nadvar() {
                    <Link href={"/"} className={styles.ruta}><li><ul>Inicio</ul></li></Link> 
                   <Link href={"/Service"} className={styles.ruta}><li><ul>Servicios</ul></li></Link>  
                  <Link href={"/Contacto"}   className={styles.ruta}><li><ul>Contacto</ul></li></Link>   
-                <Link href={"/Nosotros"}    className={styles.ruta}><li><ul>Sobre nosotros</ul></li></Link> 
+                {/* <Link href={"/Nosotros"}    className={styles.ruta}><li><ul>Sobre nosotros</ul></li></Link>  */}
 
                 </div> 
             </div>

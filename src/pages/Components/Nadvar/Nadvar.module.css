@@ -14,7 +14,7 @@
 }
 
 .title{
-    width: 50%;
+    width: 70%;
     padding-left: 2%;
     color: white;
 }
@@ -26,7 +26,7 @@
 
 
 .Navegacion{
-    width: 50%;
+    width: 30%;
     display: flex;
     list-style: none;
     gap: 4%;
@@ -43,7 +43,7 @@
     color: white;
 }
 .ruta:hover{
-    background-color: rgba(0, 0, 255, 0.193);
+    background-color: rgba(255, 254, 254, 0.193);
 }
 
 
